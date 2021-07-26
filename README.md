@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 ### Hola 👋, Mi nombre es Agustin
 #### Esto es un poco de lo que soy
-![Esto es un poco de lo que soy](![image](https://user-images.githubusercontent.com/75805313/126954593-798bcf29-0a36-4ffe-82bf-28d67c865d88.png))
+![Esto es un poco de lo que soy]((https://user-images.githubusercontent.com/75805313/126954593-798bcf29-0a36-4ffe-82bf-28d67c865d88.png))
 
 Soy un programador Full-Stack jr
 
