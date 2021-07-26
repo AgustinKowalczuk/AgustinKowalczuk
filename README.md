@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- 
 **AgustinKowalczuk/AgustinKowalczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 
  -->
  
- ### Hola 👋, Mi nombre es Agustin
+### Hola 👋, Mi nombre es Agustin
 #### Esto es un poco de lo que soy
-![Esto es un poco de lo que soy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Esto es un poco de lo que soy](https://www.piensasolutions.com/blog/wp-content/uploads/2017/09/bannercms.jpg)
 
 Soy un programador Full-Stack jr
 
 Habilidades: SQL / REACT / JS / HTML / CSS / REDUX / NODEJS / EXPRESS
 
 - 🔭 Estoy trabajando en this page. 
+
+
 
 
 
