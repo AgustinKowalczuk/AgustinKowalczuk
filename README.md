@@ -2,7 +2,7 @@
 <!-- ### Hi there 👋 -->
 <image src="https://i.imgur.com/9YA0Yys.png" ></image>
 <h1> Hi!, I'am Agustin </h1>
-<h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918888/CV-Agustin.Kowalczuk.pdf)[Uploading CV-Agustin Kowalczuk.pdf…]()
+<h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918890/CV-Agustin.Kowalczuk.pdf)
 
 <!-- 
 **AgustinKowalczuk/AgustinKowalczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
