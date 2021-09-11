@@ -7,8 +7,8 @@
 <h3>Proyectos</h3>
 AltaBirra: https://altabirra.vercel.app/
 <p> Alta Birra fue El proyecto final el cual realice junto a un grupo de personas. </p>
-CountriesApp: https://homework-agustinkowalczuk.vercel.app/
-<p>CountriesApp Es el proyecto individual el cual era una de las instancias finales de el bootcamp en #Henry</p>
+<!-- CountriesApp: https://homework-agustinkowalczuk.vercel.app/
+<p>CountriesApp Es el proyecto individual el cual era una de las instancias finales de el bootcamp en #Henry</p> -->
 <!-- 
 **AgustinKowalczuk/AgustinKowalczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
