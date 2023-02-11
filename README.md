@@ -38,5 +38,5 @@ Habilidades: SQL / REACT / JS / HTML / CSS / REDUX / NODEJS / EXPRESS
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AgustinKowalczuk&count_private=true " alt="AgustinKowalczuk" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AgustinKowalczuk&count_private=true" alt="AgustinKowalczuk" /></p>
 
