@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<image src="https://i.imgur.com/F5cKGN4.png" ></image>
+<!-- <image src="https://i.imgur.com/F5cKGN4.png" ></image> -->
 <h1> Hi!, I'am Agustin </h1>
 <h3>Tech:</h3>
 <!-- <h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918890/CV-Agustin.Kowalczuk.pdf) -->
