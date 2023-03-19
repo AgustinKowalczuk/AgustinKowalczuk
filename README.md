@@ -19,5 +19,5 @@
 </div>
 <hr width="100%"/> 
 <div>
-![]([https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif](https://skyline.github.com/agustinkowalczuk/2023))
+<link src="./AgustinKowalczuk-2023.stl"></link>
 </div>
