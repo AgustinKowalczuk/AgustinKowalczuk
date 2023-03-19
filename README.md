@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- <image src="https://i.imgur.com/F5cKGN4.png" ></image> -->
 <h1> Hola Soy Agustin</h1>
-<a href="https://skyline.github.com/agustinkowalczuk/2023" alt="SkylineGithub">
+<a href="https://skyline.github.com/agustinkowalczuk/2023" target="__blanck" alt="SkylineGithub">
 <img src="https://github.com/AgustinKowalczuk/AgustinKowalczuk/blob/main/views/skylineGithub.gif">
 </a>
 <h3> sobre mi: </h3>
