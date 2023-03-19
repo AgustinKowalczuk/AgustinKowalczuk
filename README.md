@@ -3,6 +3,8 @@
 <h1> Hola Soy Agustin</h1>
 <h3> sobre mi: </h3>
 <p>Hola! Soy un desarrollador Full-Stack en expansión, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas, buen desempeño en trabajo en grupo e individual. Soy una persona autodidacta, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas.</p>
+
+<hr />
 <h3>Tecnologias:</h3>
 <!-- <h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918890/CV-Agustin.Kowalczuk.pdf) -->
 
