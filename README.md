@@ -19,5 +19,5 @@
 </div>
 <hr width="100%"/> 
 <div>
-<link src="./AgustinKowalczuk-2023.stl"></link>
+<img src="./views/snakeContributions.svg">
 </div>
