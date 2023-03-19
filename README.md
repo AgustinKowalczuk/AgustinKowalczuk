@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- <image src="https://i.imgur.com/F5cKGN4.png" ></image> -->
 <h1> Hola Soy Agustin</h1>
+<img src="https://github.com/AgustinKowalczuk/AgustinKowalczuk/blob/main/views/skylineGithub.gif">
 <h3> sobre mi: </h3>
 <p>Hola! Soy un desarrollador Full-Stack en expansión, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas, buen desempeño en trabajo en grupo e individual. Soy una persona autodidacta, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas.</p>
 
@@ -18,7 +19,6 @@
   <img align="left" width='500' hspace="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="AgustinKowalczuk" />
 </div>
 <hr width="100%"/> 
-<img src="https://github.com/AgustinKowalczuk/AgustinKowalczuk/blob/main/views/skylineGithub.gif">
 <div>
 <img src="./views/snakeContributions.svg">
 </div>
