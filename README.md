@@ -12,7 +12,7 @@
 <!-- <h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918890/CV-Agustin.Kowalczuk.pdf) -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash,babel"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash"/>
 </p>
 <hr width="100%"/>
 <div>
