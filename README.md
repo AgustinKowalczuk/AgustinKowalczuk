@@ -14,9 +14,9 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash"/>
 </p>
-<div display="felx">
-  <img align="left" width="350" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="AgustinKowalczuk" />  
-  <img align="right" width='370' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="AgustinKowalczuk" />
+<div >
+  <img align="left" width="auto" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="AgustinKowalczuk" />  
+  <img align="right" width='auto' src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="AgustinKowalczuk" />
 </div>
   <img align="center" width='500' hspace="200" src="https://github-readme-stats.vercel.app/api?username=AgustinKowalczuk&count_private=true&bg_color=202020&text_color=B9B9B9" alt="AgustinKowalczuk" />
 <div>
