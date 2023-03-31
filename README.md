@@ -21,5 +21,6 @@
   <img  width='400' height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="AgustinKowalczuk" />
   <img width='500' height="200" src="https://github-readme-stats.vercel.app/api?username=AgustinKowalczuk&count_private=true&bg_color=202020&text_color=B9B9B9" alt="AgustinKowalczuk" />
 </div>
+
 <img src="./views/snakeContributions.svg">
 </div>
