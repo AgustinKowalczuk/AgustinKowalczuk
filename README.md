@@ -4,6 +4,7 @@
 <a href="https://skyline.github.com/agustinkowalczuk/2023" alt="SkylineGithub">
 <img src="https://github.com/AgustinKowalczuk/AgustinKowalczuk/blob/main/views/skylineGithub.gif">
 </a>
+
 <h3> sobre mi: </h3>
 <p>Hola! Soy un desarrollador Full-Stack en expansión, con muchas ganas de crecer profesionalmente, autodidacta, con buen desempeño en trabajo en grupo e individual.</p>
 <hr />
