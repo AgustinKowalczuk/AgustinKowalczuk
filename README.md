@@ -6,7 +6,7 @@
 </a>
 
 <h3> sobre mi: </h3>
-<p>Hola! Soy un desarrollador Full-Stack en expansión, con muchas ganas de crecer profesionalmente, autodidacta, con buen desempeño en trabajo en grupo e individual.</p>
+<p>Soy un desarrollador con experiencia en una amplia gama de tecnologías, incluyendo JS, HTML, CSS, Express, Git, jQuery, MaterialUI, MongoDB, MySQL, NodeJS, PostgreSQL, Postman, React, Redux, Sass, Sequelize, Visual Studio Code, Vite, Webpack, Pug y Bootstrap. Tengo habilidades en el desarrollo tanto de Front-end como de Back-end, y estoy comprometido a seguir aprendiendo y mejorando mis habilidades en cada una de estas tecnologías. Me apasiona crear aplicaciones y sitios web de alta calidad y estoy enfocado en desarrollar soluciones que satisfagan las necesidades de los usuarios finales. Siempre estoy dispuesto a asumir nuevos desafíos y enfrentar problemas complejos con creatividad y soluciones innovadoras.</p>
 <hr />
 
 <h3>Tecnologias:</h3>
