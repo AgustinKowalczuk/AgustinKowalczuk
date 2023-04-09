@@ -5,11 +5,9 @@
 <img src="https://github.com/AgustinKowalczuk/AgustinKowalczuk/blob/main/views/skylineGithub.gif">
 </a>
 
-
 <h3> sobre mi: </h3>
 <p>Soy un desarrollador con experiencia en una amplia gama de tecnologías, incluyendo JS, HTML, CSS, Express, Git, jQuery, MaterialUI, MongoDB, MySQL, NodeJS, PostgreSQL, Postman, React, Redux, Sass, Sequelize, Visual Studio Code, Vite, Webpack, Pug y Bootstrap. Tengo habilidades en el desarrollo tanto de Front-end como de Back-end, y estoy comprometido a seguir aprendiendo y mejorando mis habilidades en cada una de estas tecnologías. Me apasiona crear aplicaciones y sitios web de alta calidad y estoy enfocado en desarrollar soluciones que satisfagan las necesidades de los usuarios finales. Siempre estoy dispuesto a asumir nuevos desafíos y enfrentar problemas complejos con creatividad y soluciones innovadoras.</p>
 <hr />
-
 
 <h3>Tecnologias:</h3>
 <!-- <h3>Aqui mi Cv:</h3>[CV-Agustin Kowalczuk.pdf](https://github.com/AgustinKowalczuk/AgustinKowalczuk/files/6918890/CV-Agustin.Kowalczuk.pdf) -->
