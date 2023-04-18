@@ -26,6 +26,5 @@
   
 </div>
 
-
 <img src="./views/snakeContributions.svg">
 </div>
