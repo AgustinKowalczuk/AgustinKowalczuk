@@ -13,12 +13,5 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash"/>
 </p>
 
-<div style="display:flex; flex-wrap: wrap; justify-content=center; align-items=center;">
-
-  <img  width="300" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinKowalczuk&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="AgustinKowalczuk" />  
-  
-  <img width='500' height="200" src="https://github-readme-stats.vercel.app/api?username=AgustinKowalczuk&count_private=true&bg_color=202020&text_color=B9B9B9" alt="AgustinKowalczuk" />
-  
-</div>
 <img src="./views/snakeContributions.svg">
 </div>
