@@ -1,8 +1,6 @@
 <!-- ### Hi there 👋 -->
 <!-- <image src="https://i.imgur.com/F5cKGN4.png" ></image> -->
 <h1>Hola Mundo!</h1>
-<a href="https://skyline.github.com/agustinkowalczuk/2023" alt="SkylineGithub">
-<img src="./views/skylineGithub.gif">
 </a>
  
 <h3> sobre mi: </h3>
